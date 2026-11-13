@@ -1,3 +1,3 @@
 # ExampleWebsite
-An example website
-*That's a normal website*
+An example website.
+***That's a normal website.***
