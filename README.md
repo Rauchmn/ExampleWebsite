@@ -1,3 +1,3 @@
 # ExampleWebsite
 An example website
--That is a experimental website-
+*That's a normal website*
